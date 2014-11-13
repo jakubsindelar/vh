@@ -1,0 +1,177 @@
+﻿body 
+{
+	font-family: Tahoma, Lucida, Sans-Serif;
+	text-align: left;
+}
+
+
+
+ .style1
+        {
+            width: 775px;
+            background-color: #FEFF99;
+        }
+        
+ .style3
+        {     
+            width: 185px;     
+        }  
+        
+ .style2
+{
+    width: 580px;
+    background-color: #FEFF99;
+} 
+        
+ .style4
+        {
+	font-family: Tahoma;
+	font-size: 14px;
+	font-weight: bold;
+	width: 775px;
+	background-color: #FEFF99;
+	text-align:center;
+        }    
+        
+  .style5
+{
+    background-position: center;
+    width: 10px;
+    background-image: url('Main_Page/dot.gif');
+    background-repeat: repeat-y;
+} 
+
+
+
+
+
+ 
+ .ODRAZKY_A
+{
+  margin-left: 80px; 
+  list-style-type:lower-alpha;
+} 
+
+
+ .ODRAZKY_B
+{
+    margin-left: 5px;
+    list-style-type: circle;
+    
+} 
+      
+    
+        
+        
+   .TEXT
+{
+    font-family: Tahoma;
+    font-size: 12px;
+    font-weight: lighter;
+    color: Black;
+}
+
+.LITTLE_TEXT
+{
+    font-family: Tahoma;
+    font-size: 12px;
+    font-weight: normal;
+    color: Black;
+    
+    
+}
+
+.BOLD_TEXT
+{
+	font-family:Tahoma;
+	font-size: 14px;
+	font-weight:bold;
+	color:Black;
+}
+
+.NADPIS
+{
+    font-family:Tahoma;
+    font-size: 16px;
+    font-weight:bold;
+    color:#F30;
+    text-decoration:underline;
+    
+    
+}
+
+ ._TEXT
+{
+    font-family: Tahoma;
+    font-size: 14px;
+    font-weight: normal;
+    color: Black;
+    text-decoration: underline;
+} 
+    
+    
+    .COL_NADPIS
+{
+    font-family: Tahoma;
+    text-align: center;
+    background-color: #3366FF;
+    font-size: 14px;
+    font-style: normal;
+}
+
+.IT_BOLD_TEXT
+{ 
+    font-family: Tahoma;
+    font-size: 14px;
+    font-weight:bold;
+    font-style:italic;
+    color: Black;
+   }
+   
+   
+   .MARGIN_10
+   {
+       margin-left: 10px;
+       margin-right: 10px;
+      
+       } 
+       
+       
+       .SPONZOR_TEXT
+{
+    font-family: Tahoma;
+    font-size: 12px;
+    font-weight: normal;
+    color: Red;
+    }
+    
+     .BOLD_SPONZOR_TEXT
+{
+    font-family: Tahoma;
+    font-size: 12px;
+    font-weight:bold;
+    color: Black;
+}
+.sponzor {
+	width: 1px;
+	height: 128px;
+	text-align: center;
+}
+
+.BOLD_TEXT_REKLAMA
+{
+	font-family:Tahoma;
+	font-size: 18px;
+	font-weight:bold;
+	color:White;
+}
+
+ ._TEXT_REKLAMA
+{
+    color:#FFF;
+	font-family: Tahoma;
+    font-size: 14px;
+    font-weight: normal;
+	text-decoration: underline;
+    
+} 
